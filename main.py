@@ -5,10 +5,10 @@ Slug: u-mavis-agent-one-liner-marathon-4fa528c2
 
 import os
 
-# Entry: 143 characters (limit: at most 280 characters).
+# Entry: 139 characters (limit: at most 280 characters).
 ENTRY = (
     "I told my smart speaker I wanted to be more productive, so now it plays "
-    "lo-fi beats and judges my screen time in a disappointed British accent."
+    "lo-fi beats and judges my screen time in a disappointed BBC accent."
 )
 
 

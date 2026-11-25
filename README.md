@@ -6,7 +6,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2)
 
-> I told my smart speaker I wanted to be more productive, so now it plays lo-fi beats and judges my screen time in a disappointed British accent.
+> I told my smart speaker I wanted to be more productive, so now it plays lo-fi beats and judges my screen time in a disappointed BBC accent.
 
 ## Run
 
